@@ -314,7 +314,7 @@ For more information, see:
 ::: moniker range="vs-2022"
 
 - [About Git in Visual Studio](../version-control/git-with-visual-studio.md)
-- [Brpwse a repo](../version-control/git-browse-repository.md)
+- [Browse a repo](../version-control/git-browse-repository.md)
 - [Manage a repo](../version-control/git-manage-repository.md)
 
 ::: moniker-end
